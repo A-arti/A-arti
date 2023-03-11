@@ -8,7 +8,7 @@ I am pursuing a bachelor's degree in Engineering. I am a developer who is keenly
 
 Skills:   C++ / JS / HTML / CSS
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-arti)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
