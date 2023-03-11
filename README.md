@@ -10,6 +10,10 @@ Skills:   C++ / JS / HTML / CSS
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-arti)](https://github.com/anuraghazra/github-readme-stats)
 
+## Things I am passionate about
+- Blockchain Development
+- Open source 
+
 
 
 
