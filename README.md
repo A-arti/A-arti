@@ -1,10 +1,10 @@
-### Hi there 👋
+
  
  ### Hi there 👋, my name is Aarti
 #### Developer
 ![Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I'm Aarti pursuing a bachelor's degree in Engineering. I am a developer who is keenly interested in blockchain and web3. I have created a card game with HTML, CSS, and Javascript. 
+I am pursuing a bachelor's degree in Engineering. I am a developer who is keenly interested in blockchain and web3. I have created a card game with HTML, CSS, and Javascript. 
 
 Skills:   C++ / JS / HTML / CSS
 
