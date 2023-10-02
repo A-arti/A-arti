@@ -2,7 +2,12 @@
 <img align="right" alt="coding"  height ="300" width="350" src="https://github.com/A-arti/A-arti/blob/3cd65cea2ce3a084d0b41d81076fffb8985517dc/coder.gif">
 I am pursuing a bachelor's degree in Engineering. I am a developer who is keenly interested in blockchain and web3. I have created a card game with HTML, CSS, and Javascript. 
 
-Skills:   C++ / JS / HTML / CSS
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/aarti-20svt21/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh mishra" height="30" width="40" /></a>
+<a href="https://instagram.com/its_a.rt._?igshid=OGQ5ZDc2ODk2ZA==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="30" width="40" /></a>
+<a href="https://twitter.com/aart1_ee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="simplified_learner" height="30" width="40" /></a>
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-arti)](https://github.com/anuraghazra/github-readme-stats)
 
