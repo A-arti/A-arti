@@ -1,5 +1,5 @@
 ![banner (1)](https://github.com/A-arti/A-arti/blob/5506e83285358e166031e46079fc5101f5b1842e/profile%20banner%20(1).png)
-<img align="right" alt="coding" src="[https://github.com/A-arti/A-arti/blob/3cd65cea2ce3a084d0b41d81076fffb8985517dc/coder.gif](https://github.com/A-arti/A-arti/blob/1ec39175e727699f12f56b9a54cca53a94d2fda8/coder-unscreen.gif)">
+<img align="right" alt="coding" width="400" src="https://github.com/A-arti/A-arti/blob/170f8db87b08f9699b28d9a6f19282420c597312/coder-unscreen.gif">
 
 
 
