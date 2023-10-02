@@ -1,4 +1,4 @@
-
+profile banner (1).png
 <img align="right" alt="coding" width="400" src="https://github.com/A-arti/A-arti/blob/3cd65cea2ce3a084d0b41d81076fffb8985517dc/coder.gif">
 I am pursuing a bachelor's degree in Engineering. I am a developer who is keenly interested in blockchain and web3. I have created a card game with HTML, CSS, and Javascript. 
 
