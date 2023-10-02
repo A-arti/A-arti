@@ -9,16 +9,6 @@ I am pursuing a bachelor's degree in Engineering. I am a developer who is keenly
 <a href="https://twitter.com/aart1_ee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="simplified_learner" height="30" width="40" /></a>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-arti)](https://github.com/anuraghazra/github-readme-stats)
-
-## Things I am passionate about
-- Blockchain Development
-- Open source 
-
-
-
-
-
 <!--
 **A-arti/A-arti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
