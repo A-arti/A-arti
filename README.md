@@ -9,6 +9,8 @@
 <a href="https://instagram.com/its_a.rt._?igshid=OGQ5ZDc2ODk2ZA==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="30" width="40" /></a>
 <a href="https://twitter.com/aart1_ee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="simplified_learner" height="30" width="40" /></a>
 
+[![@aarti4's Holopin badges](https://holopin.me/aarti4)](https://holopin.io/@aarti4)
+
 
 <!--
 **A-arti/A-arti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
