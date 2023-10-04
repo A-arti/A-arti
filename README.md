@@ -1,4 +1,4 @@
-![banner (1)](https://github.com/A-arti/A-arti/blob/9eb86f0104886bf3c2d7843817e0e79d6b1e2aed/profile%20banner.png)
+![banner (1)](https://github.com/A-arti/A-arti/blob/091a8b0f0232c044db9234e825839850075b4b3d/profile%20banner%20(1).png)
 <img align="right" alt="coding" width="400" src="https://github.com/A-arti/A-arti/blob/170f8db87b08f9699b28d9a6f19282420c597312/coder-unscreen.gif">
 
 
