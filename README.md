@@ -14,6 +14,27 @@
   
 [![@aarti4's Holopin badges](https://holopin.me/aarti4)](https://holopin.io/@aarti4)
 
+<p align="center">
+  <a href="https://github.com/A-arti">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=A-arti&theme=radical&border=7F3FBF&background=0D1117" alt="Akanksha's GitHub streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/A-arti">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=A-arti&theme=radical" alt="Akanksha's GitHub Contribution"/>
+  </a>
+</p>
+
+<a> 
+    <a href="https://github.com/A-arti"><img alt="Akanksha's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=A-arti&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/A-arti"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=A-arti&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+
+
+[![A-arti's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=A-arti&bg_color=030203&color=ff00ee&line=e605d7&point=d7e1cc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <!--
 **A-arti/A-arti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
