@@ -3,7 +3,7 @@
   👋 Hi, I’m <strong>@A-arti</strong><br>
   👀 Interested in Programming, Cloud & Networking<br>
   🌱 Currently learning <strong>DevOps</strong><br>
-  💞️ Also learning <strong>Mandarin (HSK L1)</strong>
+  💞️ Also learning <strong>Japanese</strong>
 </p>
 
 ---
